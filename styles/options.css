@@ -92,7 +92,7 @@ a:hover {
 	padding: 20px 20px;
 	background-color: #FFD478;
 	border-radius: 10px;
-	line-height: 150%
+	line-height: 150%;
 	width: 320px;
 	max-width: 320px;
 }
@@ -212,7 +212,7 @@ fieldset#options .field {
 	padding: 20px 20px;
 	background-color: #ddd;
 	border-radius: 10px;
-	line-height: 150%
+	line-height: 150%;
 	width: 320px;
 	max-width: 320px;
 }
